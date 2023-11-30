@@ -178,3 +178,15 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
+.family-img {
+  border: 1px;
+  border-radius: 10px;
+  padding: 5px;
+  height: 260px;
+}
+
+.project-img {
+  width: 300px;
+  height: 200px;
+}
